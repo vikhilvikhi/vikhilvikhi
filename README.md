@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Nextjs...
 - 📫 How to reach me vikhi333@gmail.com...
 
-(https://loopmea.com/assets/images/skills.png))
+![Skills Image](https://loopmea.com/assets/images/skills.png)
+
 
 <!---
 vikhilvikhi/vikhilvikhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
