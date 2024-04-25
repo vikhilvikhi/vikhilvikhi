@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @vikhilvikhi
-- 👀 I’m interested in web_development...
-- 🌱 I’m currently learning threejs...
-- 💞️ I’m looking to collaborate on Nextjs...
-- 📫 How to reach me vikhi333@gmail.com...
+- 👋 Hi, I'm Vikhil!
+- 🌍 Based in Dubai
+- 🚀 Full-stack developer specializing in e-commerce
+- 💻 Full Time web development
+- 🎨 Currently into Three.js for 3D graphics
+- 🤝 Looking to collaborate on Next.js projects
+- 📧 Reach me at vikhi333@gmail.com.
+
 
 ![Skills Image](https://loopmea.com/assets/images/skills.png)
 
