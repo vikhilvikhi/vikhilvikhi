@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Vikhil!
 - 🌍 Based in Dubai
-- 🚀 Full-stack developer specializing in e-commerce
+- 🚀 Full-stack developer specialized in e-commerce
 - 💻 Full Time web development
 - 🎨 Currently into Three.js for 3D graphics
 - 🤝 Looking to collaborate on Next.js projects
