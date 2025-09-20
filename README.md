@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Vikhil!
+- 👋 Hi, I'm Vik!
 - 🌍 Based in Dubai
 - 🚀 Full-stack developer specialized in e-commerce
 - 💻 Full Time web development
